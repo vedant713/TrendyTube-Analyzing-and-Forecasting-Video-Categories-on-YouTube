@@ -40,7 +40,7 @@ This project conducts a vast analysis of YouTube videos, uncovering patterns in 
 ### 🚀 Running the Code
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/Trending-YouTube-Analysis.git
+   git clone https://github.com/vedant713/Trending-YouTube-Analysis.git
    cd Trending-YouTube-Analysis
    ```
 
